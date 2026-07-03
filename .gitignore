@@ -1,0 +1,20 @@
+# Compiled binaries
+/bench
+/admit
+*.exe
+*.test
+
+# go test -c output, coverage
+*.out
+coverage.txt
+
+# go build artifacts if ever built to a bin/ dir
+/bin/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
