@@ -1,5 +1,7 @@
 # admit
 
+> Note: this project was originally developed in a private repo while I was doing the research. After I reached a conclusion, I opened it here as a clean public repo, so the history may look condensed into a few large commits.
+
 An admission-controlled cache in Go: LRU, LFU, and W-TinyLFU implemented from scratch,
 benchmarked against each other on synthetic traces designed to expose their specific
 failure modes. Zero dependencies, stdlib only.
